@@ -1,0 +1,1 @@
+# ai-scribe-notes-managent-tool
